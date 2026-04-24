@@ -1,0 +1,7 @@
+# Se utiliza la condición if-else para determinar si una persona puede votar.
+
+edad = 17
+if edad >= 18:
+    print("Puedes votar en las elecciones.")
+else:
+    print("Aún no tienes edad para votar.")
